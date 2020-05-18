@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Sociala medier
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Du kan inte hitta mig. Ifall du mot förmodan lyckas hitta mig, var god följ ej. Jag känner inte dig.

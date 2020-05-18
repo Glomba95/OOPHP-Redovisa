@@ -1,3 +1,3 @@
 #### Redovisa på GitHub
 
-Skriv något kort om ditt redovisa-repo och länka till [repot för me/redovisa på GitHub](XXX).
+Klicka [här](https://github.com/Glomba95/OOPHP-Redovisa) för att komma till denna sidas GitHub-repo.

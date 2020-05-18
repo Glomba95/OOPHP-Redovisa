@@ -1,3 +1,3 @@
-#### Footer col 1
+#### På GitHub
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Klicka [här](https://github.com/Glomba95/OOPHP-Redovisa) för att komma till denna sidas GitHub-repo.
